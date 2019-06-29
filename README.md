@@ -18,6 +18,7 @@ In this course we will be talking about sensor fusion, whch is the process of ta
 ### Ubuntu 
 
 ```bash
+$> sudo apt-get -y install cmake
 $> sudo apt install libpcl-dev
 $> cd ~
 $> git clone https://github.com/udacity/SFND_Lidar_Obstacle_Detection.git
